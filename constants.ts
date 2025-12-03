@@ -5,7 +5,7 @@ export const IA_FA_AVATAR = "https://picsum.photos/seed/robotiafa/200/200";
 export const USER_AVATAR = "https://picsum.photos/seed/useradvisor/200/200";
 
 // Updated to relative path to ensure it loads from project root
-export const LANDING_HERO_IMAGE = "/img/image.jpg"; 
+export const LANDING_HERO_IMAGE = "/img/unnamed.jpg"; 
 
 export const SCENARIOS: Scenario[] = [
   {
