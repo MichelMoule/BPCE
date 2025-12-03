@@ -1,0 +1,7 @@
+{
+  "name": "BPCE Profil Particulier",
+  "description": "Plateforme de formation IA pour la double relation Professionnel-Particulier. Simulez des entretiens avec des clients pros pour détecter leurs besoins privés.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
