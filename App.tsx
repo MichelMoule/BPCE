@@ -21,7 +21,7 @@ const App: React.FC = () => {
           className="w-full h-full object-contain select-none"
           onError={(e) => {
             console.error("Image failed to load:", e.currentTarget.src);
-            e.currentTarget.src = "/img/image.jpg";
+            e.currentTarget.src = "/img/unnamed.jpg";
             e.currentTarget.onerror = null;
           }}
         />
